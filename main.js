@@ -5,7 +5,8 @@ const myStr = 'some string';
 const myBool = true;
 const myArr = [1, 2, 3, 4, 5];
 const myObj = {
-    first: 'First Name', last: 'Last Name'
+    first: 'First Name',
+    last: 'Last Name'
 };
 document.write('myNum = ' + myNum + '<br>');
 document.write('myStr = ' + myStr + '<br>');
